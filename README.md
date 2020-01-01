@@ -1,2 +1,0 @@
-# StripeDemo
-Created with CodeSandbox
